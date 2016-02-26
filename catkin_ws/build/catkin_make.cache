@@ -1,0 +1,2 @@
+beginner_tutorials:lab1:simple_navigation_goals:twitterbot_pkg
+-DCATKIN_DEVEL_PREFIX=/home/local/CORNELL-COLLEGE/bhixsonsimeral16/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/local/CORNELL-COLLEGE/bhixsonsimeral16/catkin_ws/install -G Unix Makefiles

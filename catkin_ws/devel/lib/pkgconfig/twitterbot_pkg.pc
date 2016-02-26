@@ -1,0 +1,8 @@
+prefix=/home/local/CORNELL-COLLEGE/bhixsonsimeral16/catkin_ws/devel
+
+Name: twitterbot_pkg
+Description: Description of twitterbot_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/local/CORNELL-COLLEGE/bhixsonsimeral16/catkin_ws/devel/lib 
+Requires: 

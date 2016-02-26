@@ -1,0 +1,6 @@
+<launch>
+  
+  <node name="moveTurtle" pkg="lab1" type="moveTurtle.py" />
+  <param name="minDist" type="double" value=".5" />
+
+</launch>

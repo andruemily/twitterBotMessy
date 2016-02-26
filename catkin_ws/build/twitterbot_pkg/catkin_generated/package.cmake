@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "twitterbot_pkg")
+set(twitterbot_pkg_MAINTAINER "bhixsonsimeral16 <bhixsonsimeral16@todo.todo>")
+set(twitterbot_pkg_DEPRECATED "")
+set(twitterbot_pkg_VERSION "0.0.0")
+set(twitterbot_pkg_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(twitterbot_pkg_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(twitterbot_pkg_BUILDTOOL_DEPENDS "catkin")
